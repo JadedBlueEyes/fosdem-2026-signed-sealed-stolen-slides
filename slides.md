@@ -114,7 +114,7 @@ See a message I didn't send
 
 ---
 layout: image-left
-image: ./img/uh oh.png
+image: /public/uh oh.png
 backgroundSize: contain
 ---
 
